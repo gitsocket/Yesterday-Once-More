@@ -1,0 +1,3 @@
+程序执行流程
+1. 运行hot.py > hot.json 生成热门回答列表的json文件
+2. 通过web_test.py 启动web
