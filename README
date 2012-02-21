@@ -1,3 +1,8 @@
+customize.py: 个性化排序
+hot.py: 计算天级热门回答
+web_test.py: web入口
+templates/*: 摸版文件
+
 程序执行流程
 1. 运行hot.py > hot.json 生成热门回答列表的json文件
 2. 通过web_test.py 启动web
